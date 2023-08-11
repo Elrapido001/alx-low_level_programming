@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * returns: always 0 (success)
+ * Returns: Always 0 (success,everything went well)
  */
 /* This program uses the puts function to print a message */
 int main(void)
