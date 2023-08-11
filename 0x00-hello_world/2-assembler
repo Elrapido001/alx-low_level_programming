@@ -1,2 +1,2 @@
 #!/bin/bash
-pcc -s $CFILE
+pcc -S $CFILE
